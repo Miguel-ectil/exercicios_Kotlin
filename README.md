@@ -4,7 +4,7 @@
       </h1> 
 </div>
 
-Este repositório contém 17 exercícios desenvolvidos em Kotlin como parte dos meus estudos da linguagem
+Este repositório contém 16 exercícios desenvolvidos em Kotlin como parte dos meus estudos da linguagem
 ## Table of Contents <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
 
 
