@@ -1,6 +1,6 @@
 <div align="center"> 
    <h1 align="center" > 
-       Exercócios Kotlin 
+       Exercícios Kotlin 
       </h1> 
 </div>
 
