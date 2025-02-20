@@ -10,4 +10,4 @@ Este repositório contém 16 exercícios desenvolvidos em Kotlin como parte dos 
 
 
 1. [Basic Sequences](sequencias_basicas/)
-<!-- 2. [Basic Conditions](basics_conditions/) -->
+2. [Basic Conditions](basics_conditions/)
