@@ -1,11 +1,11 @@
 <div align="center"> 
    <h1 align="center" > 
-       Exercícios Kotlin 
+       Exercícios Kotlin <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
       </h1> 
 </div>
 
 Este repositório contém alguns exercícios desenvolvidos em Kotlin, esses exercícios fazem parte dos meus estudos da linguagem
-## Table of Contents <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
+## Table of Contents 
 
 
 
