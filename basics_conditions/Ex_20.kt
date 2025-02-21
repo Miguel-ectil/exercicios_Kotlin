@@ -1,5 +1,5 @@
 fun main() {
-    println("Digite a um número: ")
+    println("Digite um número: ")
     val num = readln().toInt()
     
     if (num % 2 == 0) {
