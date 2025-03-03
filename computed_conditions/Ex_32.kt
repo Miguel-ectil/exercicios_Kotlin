@@ -4,7 +4,7 @@ fun main() {
   val numeroAleatorio = Random.nextInt(1, 5)
   
   println("Qual é o número sorteado? $numeroAleatorio\n")
-  val num = 2
+  val num = readln().toInt()
     
   if (num == numeroAleatorio) {
     println("Parabéns você acertou o número secreto $numeroAleatorio")
